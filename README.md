@@ -1,5 +1,4 @@
-# New--project-retail-sales-analytics-dashboard
-Retail Sales Data Analysis using Python and PowerBI
+#Retail Sales Data Analysis using Python and PowerBI
 ## Project Overview
 
 This project analyzes retail sales data using Python and Power BI to understand sales trends, customer behavior, and product performance.
