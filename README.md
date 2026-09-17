@@ -1,8 +1,7 @@
 # Retail Sales Data Analysis using Python and Power BI
 ## Project Overview
 
-This project analyzes retail sales data using Python and Power BI to understand sales trends, customer behavior, and product performance.
-
+This project analyzes retail sales data using Python and Power BI to identify sales trends, customer patterns, and product performance. The project includes data cleaning, exploratory data analysis, SQL analysis, and an interactive Power BI dashboard.
 ## Tools & Technologies
 
 - Python
