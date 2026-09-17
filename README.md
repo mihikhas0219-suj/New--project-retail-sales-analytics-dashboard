@@ -39,6 +39,18 @@ The data was explored and validated using Python and Pandas. The analysis includ
 ## Power BI Dashboard
 The Power BI dashboard contains KPI cards and visualizations for analyzing retail sales performance.
 
+The dashboard includes:
+
+- Total Sales
+- Total Quantity Sold
+- Average Sales
+- Monthly Sales Trend
+- Sales by Gender
+- Sales by Product Category
+- Quantity Sold by Product Category
+- Sales by Age Group
+- Average Sales by Gender
+
 ### Key Insights
 
 - Total sales: ₹456,000
@@ -56,4 +68,4 @@ The Power BI dashboard contains KPI cards and visualizations for analyzing retai
 
 ## Conclusion
 
-This project helped analyze retail sales data and identify useful business trends using Python and Power BI.
+This project helped analyze retail sales data and identify useful business trends using Python and Power BI. It provided practical experience in data cleaning, analysis, visualization, and extracting insights from data.
