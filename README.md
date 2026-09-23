@@ -37,6 +37,7 @@ The data was explored and validated using Python and Pandas. The analysis includ
 - Sales by age group
 
 ## Power BI Dashboard
+![Retail Sales Dashboard](dashboard.png)
 The Power BI dashboard contains KPI cards and visualizations for analyzing retail sales performance.
 
 The dashboard includes:
